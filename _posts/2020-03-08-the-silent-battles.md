@@ -19,7 +19,7 @@ Fighting an unseen battle to heal from something that has caused you so much pai
 
 Having to wake up every day, to fight the exact same demons that you've fought for the past many days, weeks, months or even years, with that sinking feeling in the pit of your stomach that tells you that nothing is going to get better. It's all useless.
 
-Maybe. Just maybe. You're fortunate enough to have someone who can you turn to in the midst of your battles, but they will never be able to understand the sheer magnitude of the ppain you're going through. Their words will bounce off your ears, feeling scripted and forced. Words are spoken, but there is no common means of understanding.
+Maybe. Just maybe. You're fortunate enough to have someone who can you turn to in the midst of your battles, but they will never be able to understand the sheer magnitude of the pain you're going through. Their words will bounce off your ears, feeling scripted and forced. Words are spoken, but there is no common means of understanding.
 
 It feels like all the world around you seems to slowly disappear, as you are left traiping down an empty path, shrouded in darkness. _Struggling_  to find the light.
 
