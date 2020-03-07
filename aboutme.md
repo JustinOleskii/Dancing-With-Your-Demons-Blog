@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I'm a crazy person
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Joash. I'm a 17 year old from India, currently in Junior year of high school. I have an eye for games with _beautiful_ graphics and love to read and write in my spare time. (Write, more than read these days. Quite a wonderful way to get lost in your imagination)
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+What else could you possible want to know?
+Oh yeah, I'm an extremely busy individual, working a job while dragging my education behind me. I code as a hobby when I feel inspred.
+I consider myself a mental health advocate, but the jury's still out on that one.
