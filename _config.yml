@@ -114,7 +114,7 @@ gtag: "UA-159951352-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
- disqus: "dwmd"
+# disqus: "dwmd"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
