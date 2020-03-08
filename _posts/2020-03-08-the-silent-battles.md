@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: The Silent Battles
+comments: true
 date: '2020-03-08'
 ---
 _To those fighting silent battles, this one's for you._
