@@ -39,7 +39,7 @@ Doing this will help you understand exactly what your hurt is about.
 It's time to forgive. You are presented with a choice You can either go forward thinking everyone cares about your feelings, and not forgiving the other person for hurting you is going to result in a great triumph on your part.
 **WRONG.**
 Fact is, most of the world doesn't give a damn about your feelings. 
-The truth is, the best course forward is to forgive. Admit to yourself, _"yes, that person hurt me, but it was a long time ago. If that is what they truly feel about me, let them have their opinions. It's my happiness that comes first." _
+The truth is, the best course forward is to forgive. Admit to yourself, _"yes, that person hurt me, but it was a long time ago. If that is what they truly feel about me, let them have their opinions. It's my happiness that comes first." 
 
 ### LIVE IN THE PRESENT
 Now that you've forgiven them, it's time to stop thinking about the past.
@@ -57,5 +57,3 @@ None of this will come easy. Sometimes it might feel easier to just live with th
 Do yourself a favour, let it go. Let bygones be bygones.
 
 Carpe Diem.
-
-
