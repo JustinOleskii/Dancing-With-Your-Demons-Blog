@@ -6,7 +6,7 @@ date: '2020-03-08'
 subtitle: It's time to let your pain go
 comments: true
 ---
-> The truth is, unless you let go, unless you forgive yourself, unless you forgive the situation, > unless you realize that the situation is over, you cannot move forward.  
+> The truth is, unless you let go, unless you forgive yourself, unless you forgive the situation, unless you realize that the situation is over, you cannot move forward.  
 Steve Maraboli
 
 Everyday of our existence is about making ourselves happy.
