@@ -8,7 +8,7 @@ comments: true
 ---
 It's a cloudy summer night. Thick clouds cover the skies. You're taking a stroll down a trail in the pitch dark. Your path lit only by the thin beam of a torch.  
 The path is lined with trees on either side.  
-As you pass under one of the trees, something falls onto you from above. Thin, rough, you immediately shake it off, thinking it's a snake.  
+As you pass under one of the trees, something falls onto you from above. Thin, and rough, you immediately shake it off, thinking it's a snake.  
 Your heart rate picks up. You put distance between yourself and the snake. Scared to look, you nervously light up the area with the torch.  
 To your relief, it wasn't a snake. _Just an old piece of rope._  
 
