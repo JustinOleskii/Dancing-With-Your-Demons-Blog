@@ -9,8 +9,8 @@ comments: true
 "You're too ugly."  
 "You're too weird."  
 "You're too skinny."  
-"You will never measure up to _____."  
-"You aren't good enough."  
+"You will never measure up to ______."  
+_"You aren't good enough."_  
 
 Sound familiar? These are the things the voice in your head constantly tells you during you finest moments.
 
