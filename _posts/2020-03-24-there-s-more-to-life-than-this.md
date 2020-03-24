@@ -45,6 +45,6 @@ Making them feel like crap for not scoring higher in the system just breaks thei
 
 You have a skill. A talent. Find it. Use it.  
 
-It's time to think about what you can behin doing today. Once you've accepted that you've been living at a disadvantage, you can jump back in and seize control. Set a target. A goal. Something to achieve, and work towards. Work towards it for everyday of your life.  
+It's time to think about what you can begin doing today. Once you've accepted that you've been living at a disadvantage, you can jump back in and seize control. Set a target. A goal. Something to achieve, and work towards. Work towards it for everyday of your life.  
 Until at the end, you can look back and reminisce saying,  
 *"I have lived a good life."*
